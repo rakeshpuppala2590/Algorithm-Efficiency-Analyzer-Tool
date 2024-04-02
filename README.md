@@ -1,4 +1,4 @@
-Algorithm-Efficiency-Analyzer-Tool
+#Algorithm-Efficiency-Analyzer-Tool
 This project is a Sorting Algorithm Visualizer implemented in Python using the Tkinter library for the graphical user interface (GUI). It allows users to visualize the performance of various sorting algorithms on randomly generated or user-defined arrays of numbers.
 
 Link to Video Demo : https://drive.google.com/drive/folders/1Y9G-C-UZ_3kXUhMwEdxE5lfrNmYeKo1P
